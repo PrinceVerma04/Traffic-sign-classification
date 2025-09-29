@@ -1,3 +1,7 @@
+
+
+<img width="1146" height="325" alt="traffic sign" src="https://github.com/user-attachments/assets/516a6936-9d58-4779-8fd6-53de87b5ea29" />
+
 # Traffic Sign Classification Using CNN
 
 A deep learning project that implements a Convolutional Neural Network (CNN) to classify traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset with **99.5% accuracy**.
@@ -16,6 +20,9 @@ This project demonstrates the power of CNNs in image classification by accuratel
 - Classes include speed limits, stop signs, yield signs, and various warning signs
 
 ## 🏗️ Model Architecture
+
+<img width="513" height="408" alt="model_architecture" src="https://github.com/user-attachments/assets/ddf31c5e-afdb-4f7e-a6ba-0790e0933817" />
+
 
 The CNN model consists of:
 - **4 Convolutional Layers** with increasing filters (32 → 64 → 128 → 256)
