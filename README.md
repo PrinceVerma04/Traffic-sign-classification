@@ -50,3 +50,5 @@ The CNN model consists of:
 ### Install Dependencies
 ```bash
 pip install tensorflow opencv-python pillow scikit-learn matplotlib seaborn pandas numpy
+```
+## Note: You can download the complete notebook from the given notebook directory
