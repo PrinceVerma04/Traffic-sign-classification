@@ -10,7 +10,13 @@ A deep learning project that implements a Convolutional Neural Network (CNN) to 
 
 This project demonstrates the power of CNNs in image classification by accurately recognizing 43 different types of traffic signs. The model achieves exceptional performance through a carefully designed architecture and training strategy.
 
-## 📊 Dataset
+# 📊 Dataset
+## Option 1: Using kaggle CLI
+kaggle datasets download meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+## Option 2: Manual download
+## Visit: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+## Download and extract to data/raw/ directory
 
 **German Traffic Sign Recognition Benchmark (GTSRB)**
 - **43 classes** of traffic signs
@@ -32,6 +38,7 @@ The CNN model consists of:
 - **Total Parameters**: 1,624,939
 
 ## 📈 Performance
+<img width="1188" height="372" alt="model accuracy" src="https://github.com/user-attachments/assets/cc184b63-1f26-4e57-856e-3747628248f5" />
 
 - **Training Accuracy**: 99.5%
 - **Validation Accuracy**: 99.5%
